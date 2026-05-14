@@ -10,18 +10,19 @@ To analyze how Bitcoin market sentiment affects trader profitability, behavior, 
 Bitcoin Fear & Greed Index
 Hyperliquid Historical Trading Data
 # Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-Key Insights
+ Python
+ Pandas
+ NumPy
+ Matplotlib
+ Seaborn
+ Jupyter Notebook
+
+# Key Insights
 Greed markets increase trading aggression.
 Fear markets produce conservative trading patterns.
 Win rates and profitability vary by sentiment.
 Trader behavior is highly influenced by emotional market conditions.
-Future Improvements
+# Future Improvements
 Machine learning models
 Interactive dashboards
 Real-time market monitoring
